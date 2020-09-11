@@ -1,0 +1,25 @@
+{
+  "name": "swweg",
+  "title": "Star Wars WEG",
+  "description": "A community contributed game system for West End Games Star Wars.",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.7.2",
+  "author": "Franklin, Justin",
+    "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+    "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 2,
+  "gridUnits": "m",
+  "url": "https://github.com/JFranklin3000/foundry-vtt-swweg2e",
+  "manifest": "https://github.com/JFranklin3000/foundry-vtt-swweg2e/master/src/system.json"
+}
+	
