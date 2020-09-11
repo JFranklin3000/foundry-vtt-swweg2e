@@ -20,6 +20,7 @@
   "gridDistance": 2,
   "gridUnits": "m",
   "url": "https://github.com/JFranklin3000/foundry-vtt-swweg2e",
-  "manifest": "https://github.com/JFranklin3000/foundry-vtt-swweg2e/master/src/system.json"
+  "manifest": "https://github.com/JFranklin3000/foundry-vtt-swweg2e/master/src/system.json",
+  "changelog": "https://github.com/JFranklin3000/foundry-vtt-swweg2e/master/CHANGELOG.md"
 }
 	
